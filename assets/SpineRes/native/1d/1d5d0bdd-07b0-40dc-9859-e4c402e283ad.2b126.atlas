@@ -1,0 +1,7 @@
+weapon_jingangzhi_fly_y.png
+size:256,1024
+filter:Linear,Linear
+pma:true
+tuowei_glow
+bounds:2,2,128,613
+offsets:0,20,128,650

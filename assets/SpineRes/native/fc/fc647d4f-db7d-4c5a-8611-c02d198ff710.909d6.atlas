@@ -1,0 +1,86 @@
+weapon_xianglongzhang_fire.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_000
+bounds:242,22,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_001
+bounds:2,22,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_002
+bounds:1682,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_003
+bounds:1442,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_004
+bounds:1202,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_005
+bounds:962,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_006
+bounds:722,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_007
+bounds:482,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_008
+bounds:242,262,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_009
+bounds:2,390,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_010
+bounds:1769,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_011
+bounds:1529,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_012
+bounds:1289,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_013
+bounds:1049,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_014
+bounds:809,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_015
+bounds:569,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_016
+bounds:329,502,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_017
+bounds:1769,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_018
+bounds:1529,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_019
+bounds:1289,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_020
+bounds:1049,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_021
+bounds:809,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_022
+bounds:569,742,238,238
+Elements - Fire 053 Fireball Torch Right Loop noCT noRSZ 01_023
+bounds:329,742,238,238
+fire11_ (1)
+bounds:872,2,128,128
+fire11_ (10)
+bounds:742,2,128,128
+fire11_ (11)
+bounds:612,2,128,128
+fire11_ (12)
+bounds:482,2,128,128
+fire11_ (13)
+bounds:1912,132,128,128
+fire11_ (14)
+bounds:1782,132,128,128
+fire11_ (15)
+bounds:1652,132,128,128
+fire11_ (16)
+bounds:1522,132,128,128
+fire11_ (2)
+bounds:1392,132,128,128
+fire11_ (3)
+bounds:1262,132,128,128
+fire11_ (4)
+bounds:1132,132,128,128
+fire11_ (5)
+bounds:1002,132,128,128
+fire11_ (6)
+bounds:872,132,128,128
+fire11_ (7)
+bounds:742,132,128,128
+fire11_ (8)
+bounds:612,132,128,128
+fire11_ (9)
+bounds:482,132,128,128
+tou2
+bounds:2,630,325,350

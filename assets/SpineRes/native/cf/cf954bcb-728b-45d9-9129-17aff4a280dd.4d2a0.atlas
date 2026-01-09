@@ -1,0 +1,9 @@
+weapon_shihougong_bo.png
+size:512,1024
+filter:Linear,Linear
+pma:true
+yingbo
+bounds:2,2,302,411
+rotate:90
+yingbo2
+bounds:2,306,457,457

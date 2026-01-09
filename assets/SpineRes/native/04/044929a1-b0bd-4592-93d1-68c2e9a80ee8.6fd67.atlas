@@ -1,0 +1,17 @@
+dragon_dll_body1.png
+size:256,256
+filter:Linear,Linear
+pma:true
+an_dll01_00000
+bounds:232,230,21,24
+an_dll02_00000
+bounds:156,214,34,40
+an_dll03_00000
+bounds:2,2,152,125
+images/an_dll01
+bounds:209,230,21,24
+images/an_dll02
+bounds:183,226,24,28
+rotate:180
+images/an_dll03
+bounds:2,129,152,125

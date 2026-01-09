@@ -1,0 +1,8 @@
+weapon_xuedizi_big.png
+size:512,512
+filter:Linear,Linear
+pma:true
+images/XUEDIZI
+bounds:260,27,231,231
+images/daoguan095
+bounds:2,2,256,256

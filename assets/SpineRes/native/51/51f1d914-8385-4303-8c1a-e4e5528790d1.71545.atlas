@@ -1,0 +1,17 @@
+dragon_ryy_body2.png
+size:512,256
+filter:Linear,Linear
+pma:true
+shenti/ryy_shenti0_00000
+bounds:379,87,37,49
+rotate:180
+shenti/ryy_shenti1_00000
+bounds:138,2,134,134
+shenti/ryy_shenti2_00000
+bounds:312,87,37,49
+shenti/ryy_shenti3
+bounds:351,87,37,49
+shenti/ryy_shenti4
+bounds:2,2,134,134
+shenti/ryy_shenti5
+bounds:274,87,37,49

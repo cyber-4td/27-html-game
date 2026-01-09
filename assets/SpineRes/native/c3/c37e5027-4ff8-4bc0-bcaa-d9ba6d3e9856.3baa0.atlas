@@ -1,0 +1,9 @@
+weapon_wyy.png
+size:256,512
+filter:Linear,Linear
+pma:true
+hua_00000
+bounds:2,263,243,139
+qizi
+bounds:2,2,78,259
+offsets:0,1,79,260

@@ -1,0 +1,6 @@
+weapon_yiyangzhi.png
+size:64,512
+filter:Linear,Linear
+pma:true
+yiyangzhi
+bounds:2,2,35,255

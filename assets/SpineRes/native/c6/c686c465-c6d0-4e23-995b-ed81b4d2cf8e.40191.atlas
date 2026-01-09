@@ -1,0 +1,8 @@
+dragon_qqr_body1.png
+size:256,512
+filter:Linear,Linear
+pma:true
+images/qqr01
+bounds:2,2,144,138
+images/qqr01_00000
+bounds:2,142,144,138

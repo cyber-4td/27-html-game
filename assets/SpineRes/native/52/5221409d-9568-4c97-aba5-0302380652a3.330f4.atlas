@@ -1,0 +1,46 @@
+weapon_tulongdao_bo2.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+Elements - Simple Fire 033 Hit Radial noRSZ 01_006
+bounds:1480,2,480,270
+Elements - Simple Fire 033 Hit Radial noRSZ 01_008
+bounds:998,2,480,270
+Elements - Simple Fire 033 Hit Radial noRSZ 01_010
+bounds:516,2,480,270
+Elements - Simple Fire 033 Hit Radial noRSZ 01_012
+bounds:1604,274,480,270
+rotate:90
+Elements - Simple Fire 033 Hit Radial noRSZ 01_014
+bounds:1332,274,480,270
+rotate:90
+Elements - Simple Fire 033 Hit Radial noRSZ 01_016
+bounds:1060,274,480,270
+rotate:90
+Elements - Simple Fire 033 Hit Radial noRSZ 01_018
+bounds:788,274,480,270
+rotate:90
+Elements - Simple Fire 033 Hit Radial noRSZ 01_020
+bounds:516,274,480,270
+rotate:90
+daoguang997
+bounds:2,242,512,512
+huo1_0000
+bounds:154,38,150,100
+huo1_0001
+bounds:2,38,150,100
+huo1_0002
+bounds:306,140,150,100
+huo1_0003
+bounds:154,140,150,100
+huo1_0004
+bounds:2,140,150,100
+huo1_0005
+bounds:1876,300,150,100
+rotate:90
+huo1_0006
+bounds:1876,452,150,100
+rotate:90
+huo1_0007
+bounds:1876,604,150,100
+rotate:90

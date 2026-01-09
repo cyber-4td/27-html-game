@@ -1,0 +1,9 @@
+efx_hero_1_shoot2.png
+size:256,64
+filter:Linear,Linear
+pma:true
+dian
+bounds:150,23,11,11
+feijian2
+bounds:2,2,32,146
+rotate:90

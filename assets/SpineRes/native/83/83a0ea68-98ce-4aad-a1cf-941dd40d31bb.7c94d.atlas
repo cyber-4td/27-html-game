@@ -1,0 +1,23 @@
+hero_1.png
+size:512,128
+filter:Linear,Linear
+pma:true
+shenti
+bounds:120,14,84,83
+rotate:90
+tou
+bounds:2,2,116,96
+toufa
+bounds:254,15,62,83
+youshou1
+bounds:318,48,49,50
+youshou2
+bounds:369,46,52,44
+rotate:90
+youtui
+bounds:415,69,28,29
+zuotui
+bounds:415,69,28,29
+图层 92
+bounds:205,8,90,47
+rotate:90

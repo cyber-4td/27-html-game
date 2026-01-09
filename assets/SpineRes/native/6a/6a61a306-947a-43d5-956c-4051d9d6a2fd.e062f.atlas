@@ -1,0 +1,9 @@
+weapon_jinggangzhi_blood.png
+size:64,256
+filter:Linear,Linear
+pma:true
+shang
+bounds:2,27,47,138
+xue
+bounds:2,2,23,57
+rotate:90

@@ -1,0 +1,8 @@
+dragon_sm_body1.png
+size:512,128
+filter:Linear,Linear
+pma:true
+sm1
+bounds:142,2,138,121
+sm1_00000
+bounds:2,2,138,121

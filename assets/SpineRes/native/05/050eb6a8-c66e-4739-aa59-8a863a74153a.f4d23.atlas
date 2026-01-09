@@ -1,0 +1,38 @@
+efx xianglongzhang_burning.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+tx/fire11_ (1)
+bounds:392,2,128,128
+tx/fire11_ (10)
+bounds:262,2,128,128
+tx/fire11_ (11)
+bounds:132,2,128,128
+tx/fire11_ (12)
+bounds:2,55,128,128
+tx/fire11_ (13)
+bounds:859,132,128,128
+tx/fire11_ (14)
+bounds:729,132,128,128
+tx/fire11_ (15)
+bounds:599,132,128,128
+tx/fire11_ (16)
+bounds:469,132,128,128
+tx/fire11_ (2)
+bounds:339,132,128,128
+tx/fire11_ (3)
+bounds:209,132,128,128
+tx/fire11_ (4)
+bounds:859,262,128,128
+tx/fire11_ (5)
+bounds:729,262,128,128
+tx/fire11_ (6)
+bounds:599,262,128,128
+tx/fire11_ (7)
+bounds:469,262,128,128
+tx/fire11_ (8)
+bounds:339,262,128,128
+tx/fire11_ (9)
+bounds:209,262,128,128
+tx/txtu_ (120)
+bounds:2,185,205,205

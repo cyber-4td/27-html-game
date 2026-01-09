@@ -1,0 +1,8 @@
+dragon_gsz_body2.png
+size:256,512
+filter:Linear,Linear
+pma:true
+images/gsz01_00000
+bounds:2,2,178,156
+images/gsz02
+bounds:2,160,178,156
